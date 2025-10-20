@@ -29,13 +29,12 @@ Python-Basic-with-projects/
       <li> dictionaries/
       </div>
 <div>
+<div>
 📂 05_basic_projects/
-      <li> calculator/
       <li> todo_list/
       <li> number_guessing_game/
       <li> password_generator/
-      <li> rock_paper_scissors/
-      <li> mad_libs_generator/
+
       </div>
-  <div>
+ 
  
