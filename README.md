@@ -36,14 +36,4 @@ Python-Basic-with-projects/
       <li> mad_libs_generator/
       </div>
   <div>
-📂 06_intermediate_projects/
-      <li> weather_app/
-      <li> expense_tracker/
-      <li> web_scraper/
-     <li> file_organizer/
-     </div>
-<div>
-<li> 📜 requirements.txt
-<li> 📜 learning_guide.md
-<li> 📜 project_ideas.md
-</div>
+ 
