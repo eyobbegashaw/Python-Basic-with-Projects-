@@ -1,5 +1,7 @@
 # Python-Basic-with-Projects-
-📖 About This Repository This repository provides a structured learning path from absolute Python basics to building real working projects. Each concept is immediately followed by practical implementation, reinforcing learning through doing.
+📖 About This Repository 
+
+This repository provides a structured learning path from absolute Python basics to building real working projects. Each concept is immediately followed by practical implementation, reinforcing learning through doing.
 Python-Basic-with-projects/
 <div>
 📂 01_python_fundamentals/
